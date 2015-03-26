@@ -4,8 +4,13 @@ A centipede like game for Parallax Propeller By Russ and Adam
 ### Priority TODO list
 1) we need to organize the code into meaningful directories:
 		what about throwing all the drivers(duplex,VGA) into a 'lib' dir?  
-		then creating 'src' for the current version, then 'archive/versionX' for the older versions?  
-
+		then creating 'src' for the current version, then 'archive/versionX' for the older versions?     
+2) Basic User Manual: How do we expect the user to interact with the 
+program? What inputs are expected? What is the goal of the gameplay?    
+3) How can we extend the game?    
+		Gameplay     
+		Graphical     
+		Sounds    
 
 
 
