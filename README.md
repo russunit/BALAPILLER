@@ -43,8 +43,9 @@ program? What inputs are expected? What is the goal of the gameplay?
 5) Figure out windows/linux compatibility issues. File encoding,naming standards, etc. Should be figured out before major work begins.  We can def work around issues, but we need to understand their scope and extent ahead of time.    
 6) What does the VGA driver do, and how, exactly, does it do this? We should mark up one version of the spin vga driver, explaining how the invocation results in changes in electron distrubtion on the propeller to create a screen image. 
 7) Why is there SynthAlt.spin, that appears the same as Synth.spin from OBEX?
-3) How do we make a soundtrack for the game?
+8) How do we make a soundtrack for the game?
 We could dedicate one cog for the soundtrack, and additionally add 'feedback' noises.    
+9) Should reformat the git repo with tags or branches for each different version of balapiller? Perhaps we should add features by creating a new branch(topic branch), developing the features, then merging it into local/master, incrementing the tag, then mergeing with origin/master. If there is a major problem with a feature, we can revert to the last stable tag(commit), then merge forward to other features we know work.
 
 
 
