@@ -80,3 +80,4 @@ http://www.parallax.com/propeller/qna/Content/TableTopics/AsmOpCodesPopup.htm
 https://codewords.recurse.com/issues/two/git-from-the-inside-out
 http://stackoverflow.com/questions/5032188/how-can-i-get-content-of-a-file-from-git-index
 http://gitimmersion.com/index.html
+http://git-scm.com/book/en/v1/Git-Tools-Stashing
